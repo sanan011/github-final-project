@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# This is the README.md file for the **github-final-project**
 
 ## Simple Interest Calculator
 
